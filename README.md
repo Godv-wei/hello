@@ -1,2 +1,2 @@
 # hello
-this is a tast
+this is a test
